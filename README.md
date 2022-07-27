@@ -185,6 +185,9 @@ Bump VERSION file, and run `make release`.
 
 - <https://registry.terraform.io/modules/tmknom/codedeploy-for-ecs/aws>
 
+- More Info from Hashi
+https://registry.terraform.io/providers/hashicorp/aws/latest/docs/resources/codedeploy_deployment_group
+
 ## License
 
 Apache 2 Licensed. See LICENSE for full details.
